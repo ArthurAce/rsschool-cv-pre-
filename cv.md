@@ -24,7 +24,7 @@ Hello, I am a beginner front-end developer. Unfortunately I do not have extensiv
 *Write a function "greet" that returns "Hello world!"*
 
 ```javascript
-function gret() {
+function greet() {
     return "Hello world!";
 }
 ```
