@@ -4,8 +4,8 @@
 ## Contacts  
 **Location** Ukrain  
 **Phone:** +380938468356  
-**E-mail:** forceaceflash@gmail.com  
-**GitHub:** https://github.com/ArthurAce  
+**E-mail:** [forceaceflash@gmail.com](forceaceflash@gmail.com)  
+**GitHub:** [ArthurAce](https://github.com/ArthurAce)
 
 ---
 ## Skills
