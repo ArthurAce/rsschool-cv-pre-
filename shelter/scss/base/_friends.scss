@@ -1,0 +1,18 @@
+.friends {
+    max-height: 880px;
+    background: rgb(246, 246, 246);
+    padding: 80px 0 100px 0;
+    &__title {
+        color: rgb(84, 84, 84);
+        font-size: 35px;
+        font-weight: 400;
+        line-height: 130%;
+        letter-spacing: 2px;
+        max-width: 400px;
+        margin: 0 auto;
+        text-align: center;
+    }
+}
+.friends__pets {
+    max-height: 1342px;
+}
