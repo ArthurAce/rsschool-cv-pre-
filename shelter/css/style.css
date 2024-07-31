@@ -361,6 +361,7 @@ input, button, textarea, select {
   font-size: 35px;
   font-weight: 400;
   letter-spacing: 4px;
+  margin-top: 10px;
 }
 .about__dscr {
   font-size: 15px;
@@ -429,7 +430,7 @@ input, button, textarea, select {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  gap: 50px 140px;
+  gap: 50px 130px;
 }
 .help__item {
   margin: 0;
@@ -571,6 +572,9 @@ input, button, textarea, select {
 .footer__geo h2 {
   margin: 0;
   margin-bottom: 28px;
+}
+.footer__image {
+  margin-top: -15px;
 }
 
 .footer__link_pets, .footer__geo_pets, .footer__title_pets, .footer__link_pets {
