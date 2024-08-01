@@ -576,10 +576,9 @@ input, button, textarea, select {
   margin-top: -15px;
 }
 
-.footer__link_pets, .footer__geo_pets, .footer__title_pets, .footer__link_pets {
-  margin-top: 20px;
-}
-
+/* .footer__link_pets, .footer__geo_pets, .footer__title_pets, .footer__link_pets {
+    margin-top: 20px;
+} */
 .slider {
   margin-top: 60px;
   position: relative;
