@@ -246,8 +246,8 @@ input, button, textarea, select {
   background: rgb(241, 205, 179);
 }
 .button__header:hover {
-  background: rgb(129, 98, 77);
-  color: rgb(255, 255, 255);
+  background: rgb(253, 220, 196);
+  color: rgb(41, 41, 41);
 }
 .button__friends {
   background: rgb(241, 205, 179);
@@ -261,11 +261,11 @@ input, button, textarea, select {
           transform: translateX(-50%);
 }
 .button__friends:hover {
-  background: rgb(129, 98, 77);
-  color: rgb(223, 220, 220);
+  background: rgb(253, 220, 196);
+  color: rgb(41, 41, 41);
 }
 .button__card {
-  background: rgb(250, 250, 250);
+  background: rgb(241, 205, 179);
   font-size: 17px;
   font-weight: 400;
   letter-spacing: 1px;
@@ -275,9 +275,8 @@ input, button, textarea, select {
   margin-left: 41.5px;
 }
 .button__card:hover {
-  background: rgb(129, 98, 77);
-  color: rgb(223, 220, 220);
-  border: 2px solid rgb(129, 98, 77);
+  background: rgb(253, 220, 196);
+  color: rgb(41, 41, 41);
 }
 
 .button {
@@ -295,8 +294,8 @@ input, button, textarea, select {
   background: rgb(241, 205, 179);
 }
 .button__header:hover {
-  background: rgb(129, 98, 77);
-  color: rgb(255, 255, 255);
+  background: rgb(253, 220, 196);
+  color: rgb(41, 41, 41);
 }
 .button__friends {
   background: rgb(241, 205, 179);
@@ -310,11 +309,11 @@ input, button, textarea, select {
           transform: translateX(-50%);
 }
 .button__friends:hover {
-  background: rgb(129, 98, 77);
-  color: rgb(223, 220, 220);
+  background: rgb(253, 220, 196);
+  color: rgb(41, 41, 41);
 }
 .button__card {
-  background: rgb(250, 250, 250);
+  background: rgb(241, 205, 179);
   font-size: 17px;
   font-weight: 400;
   letter-spacing: 1px;
@@ -324,9 +323,8 @@ input, button, textarea, select {
   margin-left: 41.5px;
 }
 .button__card:hover {
-  background: rgb(129, 98, 77);
-  color: rgb(223, 220, 220);
-  border: 2px solid rgb(129, 98, 77);
+  background: rgb(253, 220, 196);
+  color: rgb(41, 41, 41);
 }
 
 .about {
